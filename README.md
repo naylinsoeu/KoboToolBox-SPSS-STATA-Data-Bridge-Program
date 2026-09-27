@@ -1,21 +1,21 @@
 # KoboToolBox-SPSS-STATA Data Bridge
 
-Public Windows executable releases for KoboToolBox-SPSS-STATA Data Bridge. The application source repository is private.
-
+Public Windows executable releases for KoboToolBox-SPSS-STATA Data Bridge. 
 ## Download
 
 Download the latest `.exe` from the [Releases](https://github.com/naylinsoeu/KoboToolBox-SPSS-STATA-Data-Bridge-Releases/releases) page.
-
 ## License activation
 
-The packaged application requires an offline license activation on each computer.
+The packaged application now supports seamless **online activation**, while traditional **offline activation** remains available for users without internet access.
 
-1. Launch the downloaded executable. The **Product Activation** window displays a complete `KSPREQ2` activation request code.
-2. Copy the code and send it to `naylinsoeu@gmail.com` or contact `+959450550845` by phone, Viber, or WhatsApp.
-3. You will receive a signed `.dat` license file. Copy it into the application folder shown in the activation window.
-4. Click **Browse**, select the `.dat` file, and activate the application.
+**Option 1: Online Activation (Recommended)**
+1. Launch the downloaded executable.
+2. Click the **Activate** button and enter your professional details.
+3. The software will securely connect to the licensing server and automatically authorize your machine.
 
-Keep the license file in that folder. The application verifies the signed, machine-bound license at startup and before each export. Do not share the license file or an activation request from another computer.
+**Option 2: Offline Activation**
+If you need an offline license key, you can request one directly from me:
+2. `naylinsoeu@gmail.com` or contact `+959450550845` by phone, Viber, or WhatsApp.
 
 ## v1.1.0 checksum
 
