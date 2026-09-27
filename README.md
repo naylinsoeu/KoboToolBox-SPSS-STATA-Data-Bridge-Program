@@ -1,22 +1,48 @@
 # KoboToolBox-SPSS-STATA Data Bridge
 
-Public Windows executable releases for KoboToolBox-SPSS-STATA Data Bridge. 
+Public Windows executable releases for KoboToolBox-SPSS-STATA Data Bridge.
+
 ## Download
 
-Download the latest `.exe` from the [Releases](https://github.com/naylinsoeu/KoboToolBox-SPSS-STATA-Data-Bridge-Releases/releases) page.
+Download the latest release from the [Releases](https://github.com/naylinsoeu/KoboToolBox-SPSS-STATA-Data-Bridge-Releases/releases) page.
+
+**Executable:** `KoboToolBox-SPSS-STATA_DataBridge.exe`
+
 ## License activation
 
-The packaged application now supports seamless **online activation**, while traditional **offline activation** remains available for users without internet access.
+An internet connection is required for the first activation. The application supports two activation methods.
 
-**Option 1: Online Activation (Recommended)**
+### Option 1: Automatic trial activation
+
 1. Launch the downloaded executable.
-2. Click the **Activate** button and enter your professional details.
-3. The software will securely connect to the licensing server and automatically authorize your machine.
+2. Enter your name, email address, organization and organization type.
+3. Click **Activate**.
+4. The application will securely generate and activate a license for your computer.
 
-**Option 2: Offline Activation**
-If you need an offline license key, you can request one directly from me:
-2. `naylinsoeu@gmail.com` or contact `+959450550845` by phone, Viber, or WhatsApp.
+### Option 2: Existing license-key activation
 
-## v1.1.0 checksum
+1. Launch the downloaded executable.
+2. Select the **License key** activation option.
+3. Enter the license key provided to you.
+4. Click **Activate**.
 
-`27DAB8D424EADE2D1BB910AB4536D16379708C5008BF0A254D09BA1BBE7593B5`
+Each license is machine-bound and may be used only on the permitted number of devices. A key configured for one device cannot be activated on another computer while its device allocation is already occupied.
+
+## Offline use
+
+First-time activation requires an internet connection. After successful activation, the application stores a signed, machine-bound license and can be used offline.
+
+Copying the saved license to another computer will not work. If you replace your computer or make significant hardware changes, contact the software provider for assistance.
+
+## Request a license key
+
+To request a license key, contact:
+
+- Email: `naylinsoeu@gmail.com`
+- Phone, Viber or WhatsApp: `+959450550845`
+
+## Version 2.0.1 checksum
+
+**SHA-256**
+
+`4295B6C193DD8BC64D469E12CC7086C93D14405EF01A1992C10119A47DBC7354`
